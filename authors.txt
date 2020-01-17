@@ -1,6 +1,6 @@
 yeefatt.lim = yeefatt.lim <yeefatt.lim>
 hunnzhen.ooi = hunnzhen.ooi <hunnzhen.ooi>
-ruhi.ghani = ruhi.ghani <tatsean.pang>
+ruhi.ghani = ruhi.ghani <keith.chu>
 anson.tan = anson.tan <anson.tan>
 tatsean.pang = tatsean.pang <tatsean.pang>
 siti.azma = siti.azma <siti.azma>
